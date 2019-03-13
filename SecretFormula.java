@@ -7,5 +7,8 @@
  */
 public class SecretFormula
 {
-    public int 
+    public int boi(int y)
+    {
+        return 1;
+    }
 }
